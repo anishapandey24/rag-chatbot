@@ -1,0 +1,13 @@
+# Ignore environment and large files
+__pycache__/
+.vscode/
+*.pyc
+*.pkl
+*.log
+*.DS_Store
+.env
+venv/
+models/
+index/
+data/
+
